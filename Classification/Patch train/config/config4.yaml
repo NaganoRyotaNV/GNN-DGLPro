@@ -1,0 +1,24 @@
+model1:
+  input_size: 144
+  hidden_size: [144,144,144,128,128,128,64,64]
+  output_size: 10
+model2:
+  input_size: 144
+  hidden_size: [288,288,288,256,256,256,64,64]
+  output_size: 10
+model3:
+  input_size: 144
+  hidden_size: [432,432,432,256,256,256,64,64]
+  output_size: 10
+model4:
+  input_size: 144
+  hidden_size: [576,576,576,512,512,512,64,64]
+  output_size: 10
+model5:
+  input_size: 144
+  hidden_size: [720,720,720,512,512,512,256,256,256,64,6464]
+  output_size: 10
+model6:
+  input_size: 144
+  hidden_size: [1024,1024,1024,1024,512,512,512,512,256,256,256,256,128,128,128,128,32,32,32,32]
+  output_size: 10
